@@ -11,7 +11,7 @@
 - 管欣/男/1991
 - 学校：华中科技大学武昌分校
 - 工作年限：3年
-- 技术博客：https://www.hiphup.cn
+- 技术博客：http://www.hiphup.cn
 - Github：https://github.com/livissnack
 - 期望职位：PHP中高级程序员
 - 期望薪资：税前月薪18k，特别喜欢的公司可例外
