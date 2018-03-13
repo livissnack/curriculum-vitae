@@ -14,7 +14,7 @@
 - 技术博客：https://www.hiphup.cn
 - Github：https://github.com/livissnack
 - 期望职位：PHP中高级程序员
-- 期望薪资：税前月薪12k，特别喜欢的公司可例外
+- 期望薪资：税前月薪18k，特别喜欢的公司可例外
 - 期望城市：深圳
 - 工作地点：福田、南山、罗湖（福田最佳）
 
@@ -83,13 +83,14 @@
 ## 技能清单
 以下均为我熟练使用的技能
 
-- Web开发：PHP/Node／Python／Shell／Linux／Java（一点点）
-- Web框架：ThinkPHP/Yii/Laravel
-- 前端框架：Bootstrap/VueJS/HTML5／Jquery／Javascript
-- 前端工具：Gulp/SaSS/Webpack
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 缓存数据库相关：Redis/MangoDB
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Composer
+- Web开发：PHP / Node ／ Python ／ Shell ／ Linux ／ Java（一点点）
+- Web框架：ThinkPHP / Yii / Laravel
+- 前端框架：Bootstrap / VueJS / HTML5／Jquery／Javascript
+- 前端工具：Gulp / SaSS / Webpack
+- 数据库相关：MySQL / PgSQL / PDO / SQLite
+- 缓存数据库相关：Redis / MangoDB / Memcached
+- 版本管理、文档和自动化部署工具：Svn / Git / PHPDoc / Composer
+- 队列：RabbitMQ / beanstalkd / redis
 - 云和开放平台：微信应用开发
 - 其它：支付接入、站点维护部署、简单运维
 
