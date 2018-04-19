@@ -99,16 +99,16 @@
 ## 技能清单
 以下均为我熟练使用的技能
 
-- Web开发：PHP / Node ／ Python ／ Shell ／ Linux ／ Java（一点点）
-- Web框架：ThinkPHP / Yii / Laravel
-- 前端框架：Bootstrap / VueJS / HTML5／Jquery／Javascript
-- 前端工具：Gulp / SaSS / Webpack
+- Web开发：PHP  /  Node ／ Python ／ Shell ／ Linux ／ Java（一点点）
+- Web框架：ThinkPHP / Yii / Laravel / Yaf / Express.js / Sailsjs /  Koa2 / Egg.js / Django /Flask
+- 前端框架：Bootstrap / VueJS / HTML5 ／ Jquery ／ Javascript / ReactJS
+- 前端工具：Less / SaSS / Webpack
 - 数据库相关：MySQL / PgSQL / PDO / SQLite
 - 缓存数据库相关：Redis / MangoDB / Memcached
 - 版本管理、文档和自动化部署工具：Svn / Git / PHPDoc / Composer
-- 队列：RabbitMQ / beanstalkd / redis
-- 云和开放平台：微信应用开发
-- 其它：支付接入、站点维护部署、简单运维
+- 队列：RabbitMQ / beanstalkd / redis / Kfaka
+- 云和开放平台：微信公众号、微信小程序
+- 其它：各种支付接入、站点维护部署、简单自动化运维、简单桌面程序开发
 
 ## 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
