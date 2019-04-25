@@ -12,8 +12,8 @@
 - 技术博客：https://www.doniai.com
 - Github：[https://github.com/livissnack](https://github.com/livissnack)
 - 期望职位：PHP高级程序员
-- 期望薪资：税前月薪12k，特别喜欢的公司可例外
-- 工作地点：武汉—武昌、汉口（武昌最佳）
+- 期望薪资：税前月薪15k，特别喜欢的公司可例外
+- 工作地点：深圳—福田、南山（福田最佳）
 
 工作经历
 
@@ -53,15 +53,15 @@
 
 以下均为我熟练使用的技能
 
-- 开发语言：PHP/NodeJs／Python／Shell／熟悉-\&gt;（Golang / C / C++）
+- 开发语言：PHP / NodeJs／Python／Shell／熟悉->（Golang / C / C++）
 - 系统认知：Linux (ubuntu | centos ) / Windows
-- Web框架：ThinkPHP/Yii2 /Laravel / Sailsjs / Adonisjs / Koa / Express / EggJs / Django
+- Web框架：ThinkPHP / Yii2 /Laravel / Sailsjs / Adonisjs / Koa / Express / EggJs / Django
 - 服务器：nginx / apache / pm2
-- 前端框架：Bootstrap/VueJS/HTML5／Jquery／Javascript / react / react native / electron等
-- 前端工具：Gulp/SaSS/ Less / Webpack
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 缓存数据库相关：Redis/MangoDB / Memecached
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc / Markdown /Composer / Deployer / Travis-ci
+- 前端框架：Bootstrap / VueJS / HTML5／Jquery ／ Javascript / react / react native / electron等
+- 前端工具：Gulp / SaSS/ Less / Webpack
+- 数据库相关：MySQL / PgSQL / PDO / SQLite
+- 缓存数据库相关：Redis / MongoDB / Memecached
+- 版本管理、文档和自动化部署工具：Svn / Git / PHPDoc / Markdown / Composer / Deployer / Travis-ci
 - 云和开放平台：微信应用开发
 - 工具使用：Charles、Vagrant、Virtual Box、Parallels Desktop、Homestead、Valet、Docker
 - 其它：支付接入、站点维护部署、爬虫、数据抓包、代理翻墙
