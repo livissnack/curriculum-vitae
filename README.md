@@ -31,7 +31,7 @@
 
 ##### QACVR驾驶舱语音记录仪
 
-- 记录客舱里面的语音（黑匣子）。负责语音切割，降噪等等，时钟时间校准。
+- 记录客舱里面的语音（黑匣子）。负责录音文件切割、合并，降噪等等，时钟时间校准。
 
 #### 多尼卡宣传平台（多尼卡官网：支持中英文切换，航电研究院官网，多尼卡推广公众号）
 
@@ -64,11 +64,20 @@
 
 #### 风腾电竞
 
-- 电话问诊、健康商城、健康资讯、Ai健康咨询助手、医生端程序、用户端程序、官网（手机端，pc端-支持中英文）
+- 包括电竞管理系统，用户管理系统和对外H5的web应用。主要技术点，采用ManaPHP、elementUI和vue开发后台管理系统，webscket进行预警消息和H5用户消息推送，redis队列进行票据分批结算。
+采用docker swarm、Jenkins、gitlab进行系统构建部署。
 
 #### 风腾直播
 
-- 电话问诊、健康商城、健康资讯、Ai健康咨询助手、医生端程序、用户端程序、官网（手机端，pc端-支持中英文）
+- 直播平台，包括主播入驻，第三方直播源抓取，自建直播内容分发，视频转码推流。主要技术点，thinkPHP开发管理后台和restful风格APi，vue开发客户端，采用python模拟真实用户动态爬取直播源地址，websocket进行弹幕消息推送，ffmpeg进行视频流转码推送等。采用docker swarm、Jenkins、gitlab进行系统构建部署。
+
+## 个人作品展示
+
+- 个人导航页：https://nav.doniai.com
+- 个人博客：https://www.doniai.com
+- 个人视频流web演示站：https://live.doniai.com（自有内容、抓取第三方源）
+- 个人工具小程序：证照（已上线，搜索即可）、商城（没企业资质未发布，有开发体验版）
+- 个人工具助手（桌面软件）：Electron开发的桌面软件，日志，待办事项，图床等等功能，私人使用未发布
 
 ## 技能清单
 
@@ -82,7 +91,8 @@
 - 前端工具：Gulp / SaSS/ Less / Webpack
 - 数据库相关：MySQL / PgSQL / PDO / SQLite
 - 缓存数据库相关：Redis / MongoDB / Memecached
+- 视频功能：ffmpeg
 - 版本管理、文档和自动化部署工具：Svn / Git / PHPDoc / Markdown / Composer / Deployer / Travis-ci
 - 云和开放平台：微信应用开发
-- 工具使用：Charles、Vagrant、Virtual Box、Parallels Desktop、Homestead、Valet、Docker
+- 工具使用：Charles、Vagrant、Virtual Box、Parallels Desktop、Homestead、Valet、Docker、Jenkins
 - 其它：支付接入、站点维护部署、爬虫、数据抓包、代理翻墙
